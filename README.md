@@ -10,9 +10,9 @@ Me enfoco principalmente en la **lógica del servidor**, automatización y manej
 - 🔧 Experiencia sólida en desarrollo backend
 - 🤖 Interés en automatización de procesos y optimización de flujos
 - 📈 Orientado a soluciones prácticas y mantenibles
+- Aunque no tenga conocimientos suficientes en alguna tecnologia en especifico, no me frustro, y busco la forma de aprenderla de una forma eficiente, aprendiendo de los demas.
 
 ---
-### 🛠️ Tecnologías
 
 ### 🛠️ Tecnologías
 
