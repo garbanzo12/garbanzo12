@@ -14,6 +14,8 @@ Me enfoco principalmente en la **lógica del servidor**, automatización y manej
 ---
 ### 🛠️ Tecnologías
 
+### 🛠️ Tecnologías
+
 #### Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -47,6 +49,7 @@ Me enfoco principalmente en la **lógica del servidor**, automatización y manej
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio 2022" width="40" height="40"/>
 </p>
+
 
 
 
