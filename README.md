@@ -57,7 +57,6 @@ Me enfoco principalmente en la **lógica del servidor**, automatización y manej
 
 ## 📌 Qué puedes encontrar aquí
 - Proyectos backend con Node.js y Go, etc
-- Integraciones y automatizaciones con n8n
 - Ejemplos de uso de bases de datos relacionales y NoSQL
 - Código enfocado en buenas prácticas y claridad
 
