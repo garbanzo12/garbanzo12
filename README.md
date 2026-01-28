@@ -63,7 +63,4 @@ Me enfoco principalmente en la **lógica del servidor**, automatización y manej
 ---
 
 
-
----
-
 ⭐ Siempre abierto a nuevos retos, aprendizaje constante y mejora continua.
