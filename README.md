@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hola, soy Santiago
 
-<!--
-**garbanzo12/garbanzo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Backend** adaptable a diferentes necesidades y contextos.  
+Me enfoco principalmente en la **lógica del servidor**, automatización y manejo de datos, priorizando soluciones eficientes, escalables y bien estructuradas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🧠 Me adapto rápidamente a nuevos retos y tecnologías
+- 🔧 Experiencia sólida en desarrollo backend
+- 🤖 Interés en automatización de procesos y optimización de flujos
+- 📈 Orientado a soluciones prácticas y mantenibles
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Backend
+- **Node.js** (principal)
+- **Go (Golang)**
+
+### Bases de datos
+- **PostgreSQL** (preferida)
+- **MongoDB**
+
+### Automatización & herramientas
+- **n8n** (workflows, integraciones y automatización)
+- Git & GitHub
+- APIs REST
+
+---
+
+## 📌 Qué puedes encontrar aquí
+- Proyectos backend con Node.js y Go
+- Integraciones y automatizaciones con n8n
+- Ejemplos de uso de bases de datos relacionales y NoSQL
+- Código enfocado en buenas prácticas y claridad
+
+---
+
+## 📫 Contacto
+- 💼 LinkedIn: *(agrégalo aquí)*
+- ✉️ Email: *(opcional)*
+
+---
+
+⭐ Siempre abierto a nuevos retos, aprendizaje constante y mejora continua.
